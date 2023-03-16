@@ -1,6 +1,6 @@
 # Demo1
 
-- Um simples sistema que calcula a taxa de juros com o EndPoint chamado "/calcula-juros" mostrado no Swagger
+- Um simples sistema que calcula a taxa de juros com o EndPoint chamado "/taxa-juros" mostrado no Swagger
 - Ela traz somente a taxa de juros (Que está fixado como 0.01)
 
 # Tecnologias usada
