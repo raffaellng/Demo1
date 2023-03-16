@@ -1,13 +1,11 @@
 # Demo1
 
-- Um simples sistema que calcula a taxa de juros com o EndPoint chamado "/calcula-juros" feito no Swagger
-- Ela faz um cálculo em memória, de juros compostos, conforme abaixo: Valor Final = Valor Inicial * (1 + juros) ^ Tempo
-- Ele consome um WebService via Rest (o projeto demo1) para trazer qual e a tacha de juros que está sendo atualizada.
+- Um simples sistema que calcula a taxa de juros com o EndPoint chamado "/calcula-juros" mostrado no Swagger
+- Ela traz somente a taxa de juros (Que está fixado como 0.01)
 
 # Tecnologias usada
 - springBoot
 - Lombok
-- Flyway
 - Java 17
 - hibernate
 - Swagger
@@ -15,7 +13,7 @@
 
 -----------------------------------------
 Link da página
-http://localhost:8081/swagger-ui/index.html
+http://localhost:8082/swagger-ui/index.html
 
 
 -----------------------------------------
